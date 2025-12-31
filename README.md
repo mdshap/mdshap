@@ -45,7 +45,7 @@ Currently, I am expanding my skill set by exploring **backend development with N
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Programming & CS
