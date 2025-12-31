@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/0RmWr2ZS/mybanner.png"  alt="React" />
+<img src="https://i.ibb.co.com/0RmWr2ZS/mybanner.png" width="800px" height="308px"  alt="React" />
 <div align="center">
   
 #  Hi, I'm Md. Shaptarshi
