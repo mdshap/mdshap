@@ -2,7 +2,7 @@
   
 #  Hi, I'm Md. Shaptarshi
 
-### Full Stack Developer | MERN Enthusiast | Open Source Contributor
+### Full Stack Developer | MERN Enthusiast | Aspiring Software Engineer
 
 [![GitHub followers](https://img.shields.io/github/followers/mdshap?style=social)](https://github.com/mdshap)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shapxd)
