@@ -59,15 +59,15 @@ Currently, I am expanding my skills by exploring **Next.js** and modern full-sta
 <!-- ===================== LINKS ===================== -->
 ## 🔗 Relevant Links
 
-<p href="">
+<a href="https://github.com/mdshap">
   <img src="https://skillicons.dev/icons?i=github" /> 
   <p>GitHub</p>  
-</p>
+</a>
 
-<p href="https://www.linkedin.com/in/shapxd/">
+<a href="https://www.linkedin.com/in/shapxd/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
   <p>LinkedIn</p> 
-</p>
+</a>
 
 
 ---
