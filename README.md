@@ -4,11 +4,12 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=330&text=Md.%20Shaptarshi&desc=Frontend%20Focused%20MERN%20Developer%20%7C%20Web%20Developer&fontAlignY=32&descAlignY=55&animation=fadeIn&color=0:00f5ff,50:7f00ff,100:ff00cc&pattern=mesh&footer=Contact:%20shaptarshi@protonmail.com&footerAlignY=72" 
     alt="Md. Shaptarshi Banner"
   />
-</p>
-
-<p align="center">
+  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=Contact:%20shaptarshi@protonmail.com&fontSize=20&color=0:0f2027,50:203a43,100:2c5364" />
 </p>
+</p>
+
+
 
 
 
