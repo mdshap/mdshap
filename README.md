@@ -1,28 +1,13 @@
 <!-- ===================== NEON BANNER WITH EMAIL ===================== -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api
-      ?type=waving
-      &height=270
-      &text=Md.%20Shaptarshi
-      &desc=Frontend%20Focused%20MERN%20Developer%20%7C%20Web%20Developer%0AContact:%20shaptarshi@protonmail.com
-      &fontAlignY=36
-      &descAlignY=60
-      &animation=fadeIn
-      &color=0:00f5ff,50:7f00ff,100:ff00cc
-      &pattern=circuit"
-    alt="Md. Shaptarshi Neon Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&text=Md.%20Shaptarshi&desc=Frontend%20Focused%20MERN%20Developer%20%7C%20Web%20Developer%0AContact:%20shaptarshi@protonmail.com&fontAlignY=36&descAlignY=60&animation=fadeIn&color=0:00f5ff,50:7f00ff,100:ff00cc&pattern=circuit" alt="Md. Shaptarshi Neon Banner" />
 </p>
 
 ---
+
 <!-- ===================== NAME & DESIGNATION ===================== -->
 <h2 align="center">Md. Shaptarshi</h2>
 <h4 align="center">Frontend Focused MERN Developer | Web Developer</h4>
-
-<p align="center">
-  📧 <strong>shaptarshi@protonmail.com</strong>
-</p>
 
 ---
 
@@ -87,24 +72,15 @@ Currently, I am expanding my skill set by exploring **backend development with N
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
