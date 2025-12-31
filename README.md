@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Md. Shaptarshi
+#  Hi, I'm Md. Shaptarshi
 
 ### Full Stack Developer | MERN Enthusiast | Open Source Contributor
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Full Stack Developer** from **Rajshahi, Bangladesh**, passionate about building clean, responsive, and user-friendly web applications. I specialize in the **MERN stack** and am currently expanding my expertise in **Next.js** and modern full-stack workflows.
 
@@ -23,7 +23,7 @@ I'm a **Full Stack Developer** from **Rajshahi, Bangladesh**, passionate about b
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend Development
 <table>
