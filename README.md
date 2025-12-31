@@ -15,7 +15,7 @@
   />
 </p>
 
-
+---
 <!-- ===================== NAME & DESIGNATION ===================== -->
 <h2 align="center">Md. Shaptarshi</h2>
 <h4 align="center">Frontend Focused MERN Developer | Web Developer</h4>
