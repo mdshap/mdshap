@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co.com/0RmWr2ZS/mybanner.png" align="center" width="600px" height="231px"  alt="React" />
+<p align=""center><img src="https://i.ibb.co.com/0RmWr2ZS/mybanner.png" align="center" width="600px" height="231px"  alt="React" /></p>
+
 <div align="center">
   
 #  Hi, I'm Md. Shaptarshi
