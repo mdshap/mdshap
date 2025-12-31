@@ -14,6 +14,7 @@
 <!-- ===================== NAME & DESIGNATION ===================== -->
 <h1 align="center">Md. Shaptarshi</h1>
 <h3 align="center">Frontend Focused MERN Developer | Web Developer</h3>
+<<h4 align="center">Contact: shaptarshi@protonmail.com</h3>
 
 ---
 
