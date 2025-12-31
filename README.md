@@ -16,10 +16,7 @@
 
 I'm a **Full Stack Developer** from **Rajshahi, Bangladesh**, passionate about building clean, responsive, and user-friendly web applications. I specialize in the **MERN stack** and am currently expanding my expertise in **Next.js** and modern full-stack workflows.
 
-- 🌱 Currently exploring   <span align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-    <br>Next.js
-  </span> and advanced backend concepts
+- 🌱 Currently exploring **NEXT.js** and advanced backend concepts
 - 💼 Building a **Meal Management System** for student hostels
 - 🎯 Focused on strengthening full-stack skills through real-world projects
 - 📫 Reach me at: **your.email@example.com**
