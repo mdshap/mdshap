@@ -76,16 +76,25 @@ Currently, I am expanding my skills by exploring **Next.js** and modern full-sta
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdshap&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mdshap&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshap&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshap&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdshap&theme=tokyonight&hide_border=true" />
-</p>
+  <img 
+    src="https://streak-stats.demolab.com?user=mdshap&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>>
 
 ---
 
