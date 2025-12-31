@@ -25,38 +25,100 @@ I'm a **Full Stack Developer** from **Rajshahi, Bangladesh**, passionate about b
 ## 🛠️ Tech Stack
 
 ### Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> <span style="font-size: 18px;">React</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/> <span style="font-size: 18px;">Next.js</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/> <span style="font-size: 18px;">JavaScript</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/> <span style="font-size: 18px;">TypeScript</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/> <span style="font-size: 18px;">HTML5</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/> <span style="font-size: 18px;">CSS3</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/> <span style="font-size: 18px;">Tailwind CSS</span>
-</p>
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+    <br>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+    <br>Next.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+    <br>JavaScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+    <br>TypeScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+    <br>HTML5
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+    <br>CSS3
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+    <br>Tailwind
+  </td>
+</tr>
+</table>
 
 ### Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/> <span style="font-size: 18px;">Node.js</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50"/> <span style="font-size: 18px;">Express.js</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> <span style="font-size: 18px;">MongoDB</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/> <span style="font-size: 18px;">Firebase</span>
-</p>
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+    <br>Node.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+    <br>Express
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+    <br>MongoDB
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+    <br>Firebase
+  </td>
+</tr>
+</table>
 
 ### Programming & Computer Science
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/> <span style="font-size: 18px;">C</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/> <span style="font-size: 18px;">C++</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/> <span style="font-size: 18px;">Python</span> &nbsp;&nbsp;
-  <span style="font-size: 18px;">📊 Data Structures & Algorithms</span>
-</p>
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+    <br>C
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+    <br>C++
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+    <br>Python
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" width="48" height="48" alt="DSA" />
+    <br>DSA
+  </td>
+</tr>
+</table>
 
 ### Tools & Version Control
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/> <span style="font-size: 18px;">Git</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/> <span style="font-size: 18px;">GitHub</span> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/> <span style="font-size: 18px;">VS Code</span>
-</p>
+<table>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+    <br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+    <br>GitHub
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+    <br>VS Code
+  </td>
+</tr>
+</table>
 
 ---
 
