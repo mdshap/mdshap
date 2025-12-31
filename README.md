@@ -60,16 +60,15 @@ Currently, I am expanding my skills by exploring **Next.js** and modern full-sta
 ## 🔗 Relevant Links
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github" /> GitHub  
+  <img src="https://skillicons.dev/icons?i=github" /> 
+  <p>GitHub</p>  
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linkedin" /> LinkedIn  
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+  <p>LinkedIn</p> 
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=twitter" /> Twitter  
-</p>
 
 ---
 
