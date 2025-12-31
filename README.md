@@ -1,24 +1,22 @@
-<!-- ===================== NEON NET BANNER WITH CONTACT ON NEW LINE ===================== -->
+<!-- ===================== MAIN BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=330&text=Md.%20Shaptarshi&desc=Frontend%20Focused%20MERN%20Developer%20%7C%20Web%20Developer&fontAlignY=32&descAlignY=55&animation=fadeIn&color=0:00f5ff,50:7f00ff,100:ff00cc&pattern=mesh&footer=Contact:%20shaptarshi@protonmail.com&footerAlignY=72" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Md.%20Shaptarshi&desc=Frontend%20Focused%20MERN%20Developer%20%7C%20Web%20Developer&fontColor=ffffff&descColor=d1d5db&fontAlignY=38&descAlignY=60&animation=fadeIn&color=0:0b0b0b,100:1a1a1a&pattern=mesh"
     alt="Md. Shaptarshi Banner"
   />
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&text=Contact:%20shaptarshi@protonmail.com&fontSize=20&color=0:0f2027,50:203a43,100:2c5364" />
-</p>
 </p>
 
-
-
-
-
-
-
+<!-- ===================== CONTACT BAR ===================== -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=70&text=Contact:%20shaptarshi@protonmail.com&fontSize=20&fontColor=ffffff&color=0:000000,100:1c1c1c"
+    alt="Contact Info"
+  />
+</p>
 
 ---
 
-<!-- ===================== NAME & DESIGNATION ===================== -->
+<!-- ===================== NAME & ROLE ===================== -->
 <h2 align="center">Md. Shaptarshi</h2>
 <h4 align="center">Frontend Focused MERN Developer | Web Developer</h4>
 
@@ -28,17 +26,17 @@
 ## 👨‍💻 About Me
 
 I am **Md. Shaptarshi** from **Rajshahi, Bangladesh**.  
-I primarily work with **frontend development using the MERN stack**, building clean and responsive web interfaces.  
-Currently, I am expanding my skill set by exploring **backend development with Next.js** and modern full-stack workflows.
+I primarily work with **frontend development using the MERN stack**, focusing on clean, responsive, and user-friendly interfaces.  
+Currently, I am expanding my skills by exploring **Next.js** and modern full-stack workflows.
 
 ---
 
 <!-- ===================== CURRENT ACTIVITIES ===================== -->
 ## 🚀 Current Activities
 
-- Exploring **Next.js** and backend development concepts  
-- Building a **Meal Management System web application** for student hostels  
-- Improving full-stack development skills with real-world projects  
+- Exploring **Next.js** and backend concepts  
+- Building a **Meal Management System** for student hostels  
+- Strengthening full-stack skills through real-world projects  
 
 ---
 
@@ -64,7 +62,7 @@ Currently, I am expanding my skill set by exploring **backend development with N
 
 ---
 
-<!-- ===================== SOCIAL LINKS ===================== -->
+<!-- ===================== LINKS ===================== -->
 ## 🔗 Relevant Links
 
 <p>
