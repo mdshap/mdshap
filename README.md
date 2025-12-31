@@ -1,7 +1,11 @@
 <!-- ===================== NEON NET BANNER WITH CONTACT ON NEW LINE ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Md.%20Shaptarshi&desc=Frontend%20Focused%20MERN%20Developer%20%7C%20Web%20Developer&fontAlignY=35&descAlignY=58&animation=fadeIn&color=0:00f5ff,50:7f00ff,100:ff00cc&pattern=mesh&footer=Contact:%20shaptarshi@protonmail.com&footerAlignY=85" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=330&text=Md.%20Shaptarshi&desc=Frontend%20Focused%20MERN%20Developer%20%7C%20Web%20Developer&fontAlignY=32&descAlignY=55&animation=fadeIn&color=0:00f5ff,50:7f00ff,100:ff00cc&pattern=mesh&footer=Contact:%20shaptarshi@protonmail.com&footerAlignY=72" 
+    alt="Md. Shaptarshi Banner"
+  />
 </p>
+
 
 
 
