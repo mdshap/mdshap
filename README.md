@@ -4,7 +4,7 @@
 **mdshap/mdshap** is a ✨ _special_ ✨ r<!-- ===================== BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Md.%20Shaptarshi&desc=Frontend%20Focused%20MERN%20Developer%20%7C%20Web%20Developer&fontAlignY=35&descAlignY=55&animation=fadeIn&color=gradient"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Md.%20Shaptarshi&desc=Frontend%20Focused%20MERN%20Developer%20%7C%20Web%20Developer&desc=Conatct:%20shaptarshi@protonmail.com&fontAlignY=35&descAlignY=55&animation=fadeIn&color=gradient"
     alt="Md. Shaptarshi Banner"
   />
 </p>
@@ -14,7 +14,7 @@
 <!-- ===================== NAME & DESIGNATION ===================== -->
 <h1 align="center">Md. Shaptarshi</h1>
 <h3 align="center">Frontend Focused MERN Developer | Web Developer</h3>
-<<h4 align="center">Contact: shaptarshi@protonmail.com</h3>
+<h4 align="center">Contact: shaptarshi@protonmail.com</h3>
 
 ---
 
