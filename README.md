@@ -141,6 +141,4 @@ I'm a **Full Stack Developer** from **Rajshahi, Bangladesh**, passionate about b
   
 ### ⭐ Feel free to explore my repositories and connect with me!
 
-**Made with ❤️ by Md. Shaptarshi**
-
 </div>
