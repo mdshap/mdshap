@@ -6,6 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/mdshap?style=social)](https://github.com/mdshap)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-shaptarshi@protonmail.com-purple?style=flat&logo=protonmail)](mailto:shaptarshi@protonmail.com)
 
 </div>
 
