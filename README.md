@@ -5,7 +5,7 @@
 ### Full Stack Developer | MERN Enthusiast | Open Source Contributor
 
 [![GitHub followers](https://img.shields.io/github/followers/mdshap?style=social)](https://github.com/mdshap)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shapxd)
 [![Email](https://img.shields.io/badge/Email-shaptarshi@protonmail.com-purple?style=flat&logo=protonmail)](mailto:shaptarshi@protonmail.com)
 
 </div>
@@ -19,7 +19,7 @@ I'm a **Full Stack Developer** from **Rajshahi, Bangladesh**, passionate about b
 - 🌱 Currently exploring **NEXT.js** and advanced backend concepts
 - 💼 Building a **Meal Management System** for student hostels
 - 🎯 Focused on strengthening full-stack skills through real-world projects
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **shaptarshi@protonmail.com**
 
 ---
 
@@ -134,9 +134,8 @@ I'm a **Full Stack Developer** from **Rajshahi, Bangladesh**, passionate about b
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdshap)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shapxd)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaptarshi@protonmail.com)
 
 </div>
 
