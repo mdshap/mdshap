@@ -25,30 +25,38 @@ I'm a **Full Stack Developer** from **Rajshahi, Bangladesh**, passionate about b
 ## 🛠️ Tech Stack
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/> <span style="font-size: 18px;">React</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/> <span style="font-size: 18px;">Next.js</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/> <span style="font-size: 18px;">JavaScript</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/> <span style="font-size: 18px;">TypeScript</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/> <span style="font-size: 18px;">HTML5</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/> <span style="font-size: 18px;">CSS3</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/> <span style="font-size: 18px;">Tailwind CSS</span>
+</p>
 
 ### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50"/> <span style="font-size: 18px;">Node.js</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50"/> <span style="font-size: 18px;">Express.js</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/> <span style="font-size: 18px;">MongoDB</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/> <span style="font-size: 18px;">Firebase</span>
+</p>
 
 ### Programming & Computer Science
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/> <span style="font-size: 18px;">C</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/> <span style="font-size: 18px;">C++</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/> <span style="font-size: 18px;">Python</span> &nbsp;&nbsp;
+  <span style="font-size: 18px;">📊 Data Structures & Algorithms</span>
+</p>
 
 ### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/> <span style="font-size: 18px;">Git</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/> <span style="font-size: 18px;">GitHub</span> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50"/> <span style="font-size: 18px;">VS Code</span>
+</p>
 
 ---
 
