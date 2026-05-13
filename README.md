@@ -35,7 +35,7 @@ I am passionate about building clean, responsive, and user-friendly web applicat
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-    <br>JavaScript (ES7+)
+    <br>JavaScript
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
