@@ -60,8 +60,8 @@ I am passionate about building clean, responsive, and user-friendly web applicat
     <br>Node.js
   </td>
    <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=typescript width="48" height="48" alt="React" />
-    <br>React.js
+    <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="React" />
+    <br>Typescript
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
