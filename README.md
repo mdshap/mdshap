@@ -31,11 +31,11 @@ I am passionate about building clean, responsive, and user-friendly web applicat
 <tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-    <br>React
+    <br>React.js
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-    <br>JavaScript(ES7+)
+    <br>JavaScript (ES7+)
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -47,7 +47,7 @@ I am passionate about building clean, responsive, and user-friendly web applicat
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-    <br>Tailwind
+    <br>Tailwind CSS
   </td>
 </tr>
 </table>
@@ -61,7 +61,7 @@ I am passionate about building clean, responsive, and user-friendly web applicat
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-    <br>Express
+    <br>Express.js
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
