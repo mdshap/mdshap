@@ -15,10 +15,10 @@
 ## About Me
 
 I'm a **Full Stack Developer** from **Rajshahi, Bangladesh.** I am studying Information & Communication Engineering at University of Rajshahi.
-I am passionate about building clean, responsive, and user-friendly web applications. I specialize in the **MERN stack** and am currently expanding my expertise in **Next.js** and modern full-stack workflows.
+I am passionate about building clean, responsive, and user-friendly web applications. I specialize in the **MERN stack** and am currently expanding my expertise in **Backend** and modern full-stack workflows.
 
-- 🌱 Currently exploring **NEXT.js** and advanced backend concepts
-- 💼 Building a **Meal Management System** for student hostels
+- 🌱 Currently exploring more about Node.js
+- 💼 Exploring Backend Development with Typescript
 - 🎯 Focused on strengthening full-stack skills through real-world projects
 - 📫 Reach me at: **shaptarshi@protonmail.com**
 
